@@ -1,0 +1,2 @@
+
+                if (temp == exp[i])
